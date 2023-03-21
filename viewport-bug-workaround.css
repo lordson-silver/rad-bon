@@ -1,0 +1,9 @@
+@media screen and (max-width: 767px) {
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+        position: relative;
+    }
+}
+
+
+/* Path: bootstrap.css */
+
